@@ -227,8 +227,7 @@ td {
 .cell-name {
     font-weight: bold;
     color: var(--primary);
-    display: flex;
-    align-items: center;
+    vertical-align: middle; 
 }
 
 .item-icon {
